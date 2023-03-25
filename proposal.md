@@ -10,7 +10,7 @@ including the ability to evaluate, differentiate, integrate, and fit polynomials
 It supports univariate and multivariate polynomials and orthogonal polynomials such as Legendre, Chebyshev, and Laguerre polynomials.
 In addition to polynomial manipulation, 'numpy.polynomial' includes functions for solving polynomial equations, 
 such as 'polyroots' for finding the roots of a polynomial, 'polyint' Computes the indefinite integral of a polynomial.
-and 'polydiv' for performing polynomial long division ...etc.*
+and 'polydiv' for performing polynomial long division ..etc.*
 
 ### Stats
 
